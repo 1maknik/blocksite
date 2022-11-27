@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.Top_page {
+    padding-bottom: 99px;
+}
+
+.header_nav {
+    padding-top: 39px;
+    padding-bottom: 39px;
+}
+
+.top__content {
+    margin-top: 160px;
+}
+
+.top_info_title {
+    margin-bottom: 40px;
+}
+
+.top_info_text {
+    margin-bottom: 50px;
+}
+
+.top_brand {
+    margin-top: 197px;
+}
