@@ -66,6 +66,13 @@
     line-height: 29px;
     opacity: 0.7;
 }
+.start-btn{
+    background: #F25822;
+    box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);border-radius: 50px;
+    width: 140px;
+    height: 50px;
+    color: aliceblue;
+}
 .top_img {
     display: block;
 }
@@ -80,3 +87,96 @@
 .top_brand-link img {
     display: block;
 }
+button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 0;
+    border-radius: 0;
+    background: none;
+    }
+.upgrade{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Open Sans', sans-serif;
+}
+.upgrade a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    margin: 100px,auto;
+}
+.upgrade_business{
+       max-width: 310px;
+       width: 100%;
+       min-height: 226px;
+       padding: 30px;
+       box-sizing: border-box;
+    }
+.upgrade_leads{
+        max-width: 370px;
+        width: 100%;
+        min-height: 291px;
+        box-shadow: 15px 25px 56px 6px rgba(0, 0, 0, 0.06);
+        padding: 30px;
+       box-sizing: border-box;
+     }
+.upgrade_sales{
+        max-width: 310px;
+        width: 100%;
+        min-height: 226px;
+        padding: 30px;
+       box-sizing: border-box;
+     }
+    .upgrade_icom{
+        margin: 0 0 25px 0;
+    }
+    .uupgrade_title{
+        margin: 0 0 25px 0;
+    }
+    .upgrade_txt{
+        margin: 0 0 25px 0;
+        max-width: 310px;
+        width: 100%;
+        font-size: 15px;
+        color: #666666;
+    }
+    .choose{
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+    }
+    .choose_title{
+        margin: 92px 0 25px 0;
+    }
+    .choose_txt{
+        margin: 20px 0 55px 0;
+    }
+    .choose_uslugi{
+        display: flex;
+        flex-direction: row;
+        gap: 25px;
+        margin: 55px 0 100px 0;
+        max-width: 340px;
+        min-height: 549px;
+    }
+    .seo_research{
+        box-shadow: 15px 25px 60px -5px rgba(0, 0, 0, 0.1);
+    }
+    .uslugi_title{
+        padding: 0 0 30px 0;
+    }
+    .uslugi_txt{
+        padding: 0 0 30px 0;
+        color: #666666;
+    }
+    .uslugi_btn {
+        background: #F25822;
+        box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);border-radius: 50px;
+        width: 140px;
+        height: 50px;
+       
+    }
+    .uslugi_btn a{
+         color: #fff;
+        text-decoration: none;
+    }
